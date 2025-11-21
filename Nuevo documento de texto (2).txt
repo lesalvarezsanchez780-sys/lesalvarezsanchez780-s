@@ -1,0 +1,16 @@
+<html> 
+<head>
+<title>primera pagina</title>
+</head>
+
+
+
+
+
+<body>
+<h1>inovacion,ciencia y tecnologia</h1>
+<h2>¿que es inovacion?</h2>
+<p>se refiere ala creacion de nuevos objetosobien la modificacion de objetos q ya existen</p>
+<img srp="em1.jfif">
+</body>
+</html> 
